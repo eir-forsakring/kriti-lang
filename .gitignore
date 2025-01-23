@@ -4,3 +4,6 @@ cabal.project.local
 /result
 /.envrc.local
 /.direnv/
+.stack-work
+*stack.yaml.lock
+stack.yaml.lock
